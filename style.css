@@ -272,3 +272,22 @@ height: 25%;
     width: 100%;
 
 }
+.sss:hover{
+    cursor: pointer;
+}
+.jcc{
+    display: grid;
+    justify-content: center;
+}
+.ver{
+    position: relative;
+    height: 300px;
+    width: 600px;
+    background-color: white;
+}
+.ro{
+    margin-top: 50px;
+    margin-left: 180px;
+    border: 2px;
+
+}
